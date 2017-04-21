@@ -1,0 +1,8 @@
+[Activity]
+name = PJ
+activity_version = 9 
+host_version = 1
+bundle_id = mulawa.PJ
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
